@@ -113,5 +113,3 @@ def test_input():
 
 if __name__ == '__main__':
      main()
-
-#  type in the the possible cities you want from the country.
